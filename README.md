@@ -1,1 +1,1 @@
-# Survival-Shooter for unity tutorial by SangGee.
+# Unity Tutorial about Survival Shooter by SangGee
